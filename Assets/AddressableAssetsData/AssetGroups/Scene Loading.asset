@@ -10,20 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: ComponentReference
+  m_Name: Scene Loading
   m_EditorClassIdentifier: 
-  m_GroupName: ComponentReference
+  m_GroupName: Packed Assets
   m_Data:
     m_SerializedData: []
-  m_GUID: c3d97f3e309a11d438c6b41d12241e9f
-  m_SerializeEntries:
-  - m_GUID: 578793864541532439133548bba8b3c4
-    m_Address: Assets/Addressable Demo/Basic/ComponentReference/Prefabs/ColorChangeCube.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+  m_GUID: 3260ec5a9ec6b2542b3529f7adcc0df7
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 3a673fc3107ea634e88a19a71690c4dd, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 4143fcb8883b8e9498f29f9e569964b1, type: 2}
-    - {fileID: 11400000, guid: d6d39590caefe544580ccef2a289e7d0, type: 2}
+    - {fileID: 11400000, guid: 363ac059489bc9648a431785d49ad65b, type: 2}
+    - {fileID: 11400000, guid: fd8582d3e407a9f4ebfc8979b5be3dbd, type: 2}
