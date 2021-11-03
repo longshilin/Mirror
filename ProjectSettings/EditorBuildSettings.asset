@@ -4,6 +4,27 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Addressable Demo/Basic/Startup.unity
+    guid: 7bffd596c95c9ee4e8bc19dff9017553
+  - enabled: 1
+    path: Assets/Addressable Demo/Basic/Basic AssetReference/Scenes/BasicReference.unity
+    guid: f89d7801df631034391bde9206700a98
+  - enabled: 1
+    path: Assets/Addressable Demo/Basic/Basic AssetReference/Scenes/FilteredReferences.unity
+    guid: 63fc2630c07c1d3419890a3aa704f8e0
+  - enabled: 1
+    path: Assets/Addressable Demo/Basic/Basic AssetReference/Scenes/ListOfReferences.unity
+    guid: 2f0db6af6e7d5c849a27c06a20eca733
+  - enabled: 1
+    path: Assets/Addressable Demo/Basic/Basic AssetReference/Scenes/SubobjectReference.unity
+    guid: e57a221b230d6084f827a47ca1594987
+  - enabled: 1
+    path: Assets/Addressable Demo/Basic/Scene Loading/Scenes/Bootstrap.unity
+    guid: ab821962597f48b4e8362d181b38313a
+  - enabled: 1
+    path: Assets/Addressable Demo/Basic/Sprite Land/Scenes/SampleScene.unity
+    guid: 90b92e3917db495478199e9a1045eb45
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: d2d8a82a81041ab43bfa7909e2203fe6, type: 2}
