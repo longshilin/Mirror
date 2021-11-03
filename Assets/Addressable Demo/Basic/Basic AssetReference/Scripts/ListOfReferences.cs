@@ -36,6 +36,7 @@ public class ListOfReferences : MonoBehaviour {
 		{
 			for(int count = 0; count <= currentIndex; count++)
 				GameObject.Instantiate(shapes[currentIndex].Asset);
+                // shapes[currentIndex].InstantiateAsync();
 			currentIndex++;
 			if (currentIndex >= shapes.Count)
 				currentIndex = 0;

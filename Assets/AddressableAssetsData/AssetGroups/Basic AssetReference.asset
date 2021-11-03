@@ -25,6 +25,10 @@ MonoBehaviour:
     m_Address: Assets/Addressable Demo/Basic AssetReference/Materials
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: d798e7df01851a24a8d23a794faa4550
+    m_Address: Assets/Addressable Demo/Basic AssetReference/Sprites/sprite_sheet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 3a673fc3107ea634e88a19a71690c4dd, type: 2}
   m_SchemaSet:
